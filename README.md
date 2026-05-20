@@ -1,7 +1,7 @@
 # Observações sobre o Código "Caixa Registradora {Python}.py"
 
 ## 📌 Contexto
-O código em questão foi de uma avalição da diciplina de Python. Trata-se de um projeto básico em Python que simula uma **caixa registradora**, permitindo operações simples de entrada e saída de valores.
+O código em questão foi de uma avaliação da disciplina de Python. Trata-se de um projeto básico em Python que simula uma **caixa registradora**, permitindo operações simples de entrada e saída de valores.
 
 ---
 
